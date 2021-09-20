@@ -1,6 +1,6 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Dhruv!
 <a href="https://twitter.com/dhruvmewada15">
-  <img align="left" alt="Dhruv Mewada"/>
+  <img align="left" alt="Dhruv Mewada" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dhruvmewada15/">
   <img align="left" alt="Dhruv's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,10 +13,9 @@
   
 **About me:**
 
-- 🔭 I’m currently working as a Site Reliability Engineer.
-- 🌱 My interests are in Systems, Kubernetes, Infrastructure and Cloud.
-- 💬 Ask me about anything, I'm happy to help!
-- 😄 Pronouns: He/Him
+- 🛡️ I’m currently working as a Site Reliability Engineer.
+- 🌱 My interests are in Cloud native tools and technologies : K8s, Cloud, IaC, Programming
+- 👨 Pronouns: He/Him
 - 📍 Located in : Mumbai, Maharashtra, India
 
 **Languages and Tools:**  
