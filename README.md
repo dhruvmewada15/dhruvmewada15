@@ -13,8 +13,9 @@
   
 **About me:**
 
-- 🛡️ I’m currently working as a Site Reliability Engineer.
+- 🛡️ I’m currently working as a Site Reliability Engineer at InfraCloud.
 - 🌱 My interests are in Cloud native tools and technologies : K8s, Cloud, IaC, Programming
+- 📜 Certified Kubernetes Administrator, AWS Solution Architect-Associate
 - 👨 Pronouns: He/Him
 - 📍 Located in : Mumbai, Maharashtra, India
 
